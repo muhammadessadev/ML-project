@@ -101,27 +101,4 @@ ENDPOINT_API_KEY=your_endpoint_api_key
 
 Other optional settings can be found in `config.yaml` and `frontend/.env.local`.
 
-## Contributing
 
-We welcome contributions! To get started:
-
-- Fork the repository
-- Create a new branch (`git checkout -b feature/your-feature`)
-- Commit your changes
-- Open a pull request
-
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) and ensure all tests pass before submitting.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Upstash Redis](https://upstash.com/)
-- [Render](https://render.com/)
-- [SoccerDataAPI](https://soccerdataapi.com/)
-- Special thanks to all contributors and the open-source community!
